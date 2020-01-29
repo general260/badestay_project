@@ -1,0 +1,22 @@
+{
+  "name": "badestay_project",
+  "version": "1.0.0",
+  "description": "Badestay comprehensive High School Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "keywords": [
+    "High",
+    "school",
+    "Education",
+    "Comprehensive",
+    "High",
+    "School"
+  ],
+  "author": "Obasi Basil",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
